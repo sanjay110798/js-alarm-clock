@@ -1,1 +1,1 @@
-# js-alarm-clock
+Alarm Clock
